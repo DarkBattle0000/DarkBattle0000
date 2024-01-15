@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarkBattle0000
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ for Dummies
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on RSDKv5
 - 📫 How to reach me send me a message
 
